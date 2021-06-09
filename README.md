@@ -1,4 +1,4 @@
-# Stable-Baselines-Reinforcement-Learning
+# Stable Baselines Reinforcement Learning
 
 https://stable-baselines.readthedocs.io/en/master/modules/acer.html#
 
